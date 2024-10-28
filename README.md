@@ -22,7 +22,8 @@ Currently this module supports the following actions:
 
 ## Examples and Docs
 
-Docs have been generated with nim using `nim doc <inputfile>`. This html file can be found within `htmldocs`
+Docs have can be generated with nim using `nim doc docxutils.nim`
+
 The docx file within the example directory was taken from (https://file-examples.com/index.php/sample-documents-download/sample-doc-download/) and is the 100kB docx file
 
 ## Dependencies
