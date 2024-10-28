@@ -1,6 +1,6 @@
 # docxutils
 
-A small utility module for working with docx files
+A small utility module for working with docx files without having to create any temp file or directory
 
 This was cobbled together quickly, error handling is minimal and by minimal I mean next to none... sorry I just needed these features quickly
 
